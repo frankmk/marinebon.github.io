@@ -10,6 +10,7 @@ In October 2017, NASA announced the winning projects for the ROSES A.50 Group on
 
 <div align="center"><img src="../../images/mbon_sites.jpg"></div>
 
+
 MBON Pole to Pole seeks to facilitate the integration of biological and environmental data for countries along the Pacific and Atlantic coasts of the Americas, from the Arctic to Antarctica. Changes in marine biodiversity are being documented in these regions (Cruz et al., 2003; Escribano et al., 2003; Miloslavich et al., 2011; Taylor et al, 2012) but effective decision-making requires an detailed understanding of these changes. The Pole-to-Pole (P2P) MBON initiative was conceived as a network of cooperating research institutions, marine laboratories, parks, and reserves that seek to address common problems related to sustaining ecosystem services through conservation ecology.
 
 The effort engages AmeriGEOSS member countries to collect biological measurements using common methodologies and to share knowledge on a continental scale. P2P MBON will supports groups in the American continent and small island developing states to: develop and document best practices associated with marine biodiversity observations, including methods for data collection and data management, while allowing flexibility to ensure national needs are addressed; enhance coordination of data collection within and between nations; integrate biodiversity data collection with physical and biogeochemical observations; and evaluate status and trends of marine biodiversity and ecosystems.
