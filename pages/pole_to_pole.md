@@ -5,6 +5,9 @@ layout: single
 author_profile: false
 ---
 
+**News**  
+<u>MBON Pole to Pole is on the web:</u> MBON is developing a Community of Practice across the Americas to assess marine biodiversity and ecosystem change using field and space observations. You can follow MBON Pole to Pole progress [here](https://marinebon.github.io/p2p/index.html).
+
 **Background**  
 In October 2017, NASA announced the winning projects for the ROSES A.50 Group on Earth Observations (GEO) Work Programme solicitation. The MBON Pole to Pole effort - “Laying the foundations of the Pole-to-Pole Marine Biodiversity Observation Network of the Americas” - was one of 32 funded programs.
 
