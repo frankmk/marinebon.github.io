@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<div style="width:30%; float:left; text-align:center;">This is some text in a div element..
+<div style="width:45%; float:left; text-align:center;">This is some text in a div element..
 
 blah blah blah blah  
 blah blah blah blah  
@@ -13,7 +13,15 @@ blah blah blah blahh
 
 </div>
 
-<div style="width:30%; float:right; text-align:center;">This is some text in a div element..
+<div style="width:45%; float:right; text-align:center;">This is some text in a div element..
+
+blah blah blah blah  
+blah blah blah blah  
+blah blah blah blahh
+
+</div>
+<div style="clear: both;"></div>
+<div style="width:45%; float:left; text-align:center;">This is some text in a div element..
 
 blah blah blah blah  
 blah blah blah blah  
@@ -21,15 +29,7 @@ blah blah blah blahh
 
 </div>
 
-<div style="width:30%; float:left; text-align:center;">This is some text in a div element..
-
-blah blah blah blah  
-blah blah blah blah  
-blah blah blah blahh
-
-</div>
-
-<div style="width:30%; float:right; text-align:center;">This is some text in a div element..
+<div style="width:45%; float:right; text-align:center;">This is some text in a div element..
 
 blah blah blah blah  
 blah blah blah blah  
