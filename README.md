@@ -12,10 +12,27 @@ The `master` branch is used by Travis.CI to deploy the website to GitHub's serve
 ## dev
 ### setup
 0. `git clone -b website git@github.com:marinebon/mbon_jekyll_theme.git` to clone the **"website"** branch
+0. BB: OR `git clone -b theme https://github.com/marinebon/mbon_jekyll_theme.git _theme` to clone the **"theme"** branch into `_theme/`
 1. [install ruby & jekyll](https://jekyllrb.com/)
 2. `bundle install` to set up ruby dependencies
 3. `git submodule update --init --recursive` to install the theme
 3. `bundle exec jekyll serve` to build & host the site at localhost:4000
+
+
+TODO: Avoid `https://marinebon.github.io/_theme/assets/css/main.css` resulting in the following:
+
+```
+Mixed Content: The page at 'https://marinebon.org/' was loaded over HTTPS, but requested an insecure stylesheet 'http://www.marinebon.org/_theme/assets/css/main.css'. This request has been blocked; the content must be served over HTTPS.
+```
+
+See: 
+
+* [_includes/head.html at theme · marinebon/mbon_jekyll_theme](https://github.com/marinebon/mbon_jekyll_theme/blob/theme/_includes/head.html)
+  * [_includes/base_path at theme · marinebon/mbon_jekyll_theme](https://github.com/marinebon/mbon_jekyll_theme/blob/theme/_includes/base_path)
+
+`base_path` var vs `site.url` set in `_config.yml`
+
+* [trying relative_url vs base_path to avoid conflict of http w/ https · marinebon/mbon_jekyll_theme@857a676](https://github.com/marinebon/mbon_jekyll_theme/commit/857a67637f9eb597efd5872ddf3c9a7b5207f6b8)
 
 ------------------------------------------------------------
 
