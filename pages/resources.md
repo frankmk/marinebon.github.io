@@ -21,6 +21,7 @@ blah blah blah blahh
 
 </div>
 <div style="clear: both;"></div>
+<p>&nbsp;</p>
 <div style="width:45%; float:left; text-align:center;">This is some text in a div element..
 
 blah blah blah blah  
