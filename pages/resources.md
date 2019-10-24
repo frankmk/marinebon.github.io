@@ -8,7 +8,7 @@ author_profile: false
 
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
 <img src="/images/mbon_fmk_20191011.png"><br>
-[Presentation Title](https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h)<br>
+<a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank">Presentation Title</a><br>
 Frank Muller-Karger<br>  
 MBON New Projects Kickoff<br> 
 October 11, 2019
@@ -17,7 +17,7 @@ October 11, 2019
 
 <div style="width:45%; float:right; text-align:center; font-size: smaller;">
 <img src="/images/mbon_fmk_20191011.png"><br>
-[Presentation Title](https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h)<br>
+<a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank">Presentation Title</a><br>
 Frank Muller-Karger<br>  
 MBON New Projects Kickoff<br> 
 October 11, 2019
@@ -30,7 +30,7 @@ October 11, 2019
 
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
 <img src="/images/mbon_fmk_20191011.png"><br>
-[Presentation Title](https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h)<br>
+<a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank">Presentation Title</a><br>
 Frank Muller-Karger<br>  
 MBON New Projects Kickoff<br> 
 October 11, 2019
@@ -39,7 +39,7 @@ October 11, 2019
 
 <div style="width:45%; float:right; text-align:center; font-size: smaller;">
 <img src="/images/mbon_fmk_20191011.png"><br>
-[Presentation Title](https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h)<br>
+<a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank">Presentation Title</a><br>
 Frank Muller-Karger<br>  
 MBON New Projects Kickoff<br> 
 October 11, 2019
