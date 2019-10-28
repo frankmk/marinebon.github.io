@@ -8,7 +8,10 @@ main:
 
   - title: "U.S. Projects"
     url: /pages/us_projects/
-
+    children:
+      - title: "GEO BON"
+        url: "https://geobon.org/"
+        
   - title: "Data"
     url: /pages/data/
 
