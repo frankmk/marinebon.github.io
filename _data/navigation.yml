@@ -17,10 +17,6 @@ main:
 
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
-    
-    children:
-      - title: "GEO BON"
-        url: "https://geobon.org/"
 
 # site_nav links
 site_nav:
