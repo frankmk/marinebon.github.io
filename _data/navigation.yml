@@ -5,13 +5,28 @@ main:
 
   - title: "News"
     url: /pages/news/
-
-  - title: "U.S. Projects"
-    url: /pages/us_projects/
-    children:
-      - title: "GEO BON"
-        url: "https://geobon.org/"
-        
+ul>
+<li class="dropdown">
+            <a id="drop1" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"  aria-haspopup="true" aria-expanded="false">U.S. Projects <span class="caret"></span></a>
+            <ul class="dropdown-menu" aria-labelledby="drop1">
+              <li>
+                <a href="https://ioos.noaa.gov/about/ioos-by-the-numbers/" target="_blank">Metrics</a>
+              </li>
+              <li>
+                <a href="https://data.ioos.us/">Search</a>
+              </li>
+              <li>
+                <a href="https://compliance.ioos.us/index.html">Compliance Checker</a>
+              </li>
+              <li>
+                <a href="https://www.nodc.noaa.gov/ioos/" target="_blank">IOOS Archive Data Portal</a>
+              </li>
+              <li>
+                <a href="https://comt.ioos.us">Coastal and Ocean Modeling Testbed</a>
+              </li>
+            </ul>
+          </li>
+    </ul>    
   - title: "Data"
     url: /pages/data/
 
