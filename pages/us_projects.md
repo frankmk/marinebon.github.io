@@ -9,7 +9,7 @@ author_profile: false
 
 In Fall 2019, the MBON federal sponsors (NOAA, NASA, ONR and BOEM) announced six new MBON projects:
 
-*   Francisco Chavez, Monterey Bay Aquarium Research Institute: The CeNCOOS MBON: Integrating remote sensing, in situ data and models to understand central California ecosystem responses to environmental change
+*   Francisco Chavez, Monterey Bay Aquarium Research Institute: The CeNCOOS MBON: Integrating remote sensing, _in situ_ data and models to understand central California ecosystem responses to environmental change
 *   Katrin Iken, University of Alaska - Fairbanks: A sustainable, integrated AMBON in the Chukchi Sea
 *   Maria Kavanaugh, Oregon State University: Marine Biodiversity Observing Network in the Northern California Current: Understanding patterns and drivers of biodiversity and ecosystem functioning from plankton to seascapes
 *   Bob Miller, University of California - Santa Barbara: Southern California Bight Marine Biodiversity Observation Network
