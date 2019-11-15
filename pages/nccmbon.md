@@ -1,5 +1,5 @@
 ---
-title: "MBON U.S. Projects - Northern California Current MBON"
+title: "U.S. MBON Projects - Northern California Current MBON"
 excerpt: "Marine Biodiversity Observation Network U.S. Projects - Northern California Current MBON"
 layout: single
 author_profile: false
