@@ -1,5 +1,5 @@
 ---
-title: "MBON U.S. Projects - Southern California Bight MBON"
+title: "U.S. MBON Projects - Southern California Bight MBON"
 excerpt: "Marine Biodiversity Observation Network U.S. Projects - Southern California Bight MBON"
 layout: single
 author_profile: false
