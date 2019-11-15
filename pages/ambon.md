@@ -1,5 +1,5 @@
 ---
-title: "MBON U.S. Projects - Arctic MBON"
+title: "U.S. MBON Projects - Arctic MBON"
 excerpt: "Marine Biodiversity Observation Network U.S. Projects - Arctic MBON"
 layout: single
 author_profile: false
