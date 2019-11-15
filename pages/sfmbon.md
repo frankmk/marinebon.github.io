@@ -1,5 +1,5 @@
 ---
-title: "MBON U.S. Projects - South Florida MBON"
+title: "U.S. MBON Projects - South Florida MBON"
 excerpt: "Marine Biodiversity Observation Network U.S. Projects - South Florida MBON"
 layout: single
 author_profile: false
