@@ -1,5 +1,5 @@
 ---
-title: "MBON U.S. Projects - Gulf of Maine MBON"
+title: "U.S. MBON Projects - Gulf of Maine MBON"
 excerpt: "Marine Biodiversity Observation Network U.S. Projects - Gulf of Maine MBON"
 layout: single
 author_profile: false
