@@ -23,22 +23,22 @@ site_nav:
   - title: U.S. MBON PROJECTS
     children:
       - title: "Central California MBON"
-        url: "/pages/ccmbon/"
+        url: /pages/ccmbon/
 
       - title: "Arctic MBON"
-        url: "/pages/ambon/"
+        url: /pages/ambon/
 
       - title: "Northern California Current MBON"
-        url: "/pages/nccmbon/"
+        url: /pages/nccmbon/
         
        - title: "Southern California Bight MBON"
-        url: "/pages/scbmbon/"
+        url: /pages/scbmbon/
 
       - title: "Gulf of Maine MBON"
-        url: "/pages/gommbon/"
+        url: /pages/gommbon/
 
       - title: "South Florida MBON"
-        url: "/pages/sfmbon/"
+        url: /pages/sfmbon/
         
   - title: MBON GLOBAL COLLABORATORS
     children:
