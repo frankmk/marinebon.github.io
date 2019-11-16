@@ -20,7 +20,7 @@ main:
 
 # site_nav links
 site_nav:
-  - title: U.S. MBON PROJECTS
+  - title: "U.S. MBON PROJECTS"
     children:
       - title: "Central California MBON"
         url: /pages/ccmbon/
@@ -40,7 +40,7 @@ site_nav:
       - title: "South Florida MBON"
         url: /pages/sfmbon/
         
-  - title: MBON GLOBAL COLLABORATORS
+  - title: "MBON GLOBAL COLLABORATORS"
     children:
       - title: "GEO BON"
         url: "https://geobon.org/"
