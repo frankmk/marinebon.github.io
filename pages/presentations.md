@@ -15,7 +15,7 @@ October 11, 2019
 </div>
 
 <div style="width:45%; float:right; text-align:center; font-size: smaller;">
-<a href="../assets/MBON_kickoff_SCB.pdf" target="_blank"><img src="/images/mbon_bm_20191011.png"><br>
+<a href="/assets/MBON_kickoff_SCB.pdf" target="_blank"><img src="/images/mbon_bm_20191011.png"><br>
 Southern California Bight MBON</a><br>
 Bob Miller<br>  
 MBON New Projects Kickoff<br> 
