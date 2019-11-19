@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<div style="width:45%; float:left; background-color:lightblue; text-align:center; font-size:smaller; color:white;">
+<div style="width:45%; float:left; width:200px; background-color:lightblue; text-align:center; font-size:smaller; color:white;">
 <a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank"><img src="/images/mbon_fmk_20191011.png"><br>
 South Florida MBON</a><br>
 Frank Muller-Karger<br>  
