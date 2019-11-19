@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<div style="width:45%; float:left; width:200px; height: 150px; background-color:gray; text-align:center; vertical-align: middle; font-size:smaller;">
+<div style="width:45%; float:left; width:200px; height: 150px; vertical-align: middle; background-color:gray; text-align:center; font-size: smaller;">
 <a style="color:white;" href="">South Florida MBON<br>
 Frank Muller-Karger<br>  
 MBON New Projects Kickoff<br> 
