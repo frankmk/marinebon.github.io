@@ -18,7 +18,7 @@ In Fall 2019, the MBON federal sponsors (NOAA, NASA, ONR and BOEM) announced six
 
 **2014 - 2018**
 
-The above projects are intended to build on the lessons learned and the progress made during the initial set of U.S. MBON demonstration projects:
+The above projects are intended to build on the lessons learned and the progress made during the initial set of U.S. MBON demonstration projects.
 
 *   [Arctic MBON](http://ambon-us.org/)
 *   [Sanctuaries MBON](http://sanctuaries.marinebon.org/)
