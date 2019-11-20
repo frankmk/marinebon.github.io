@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<div style="news-tile">
+<div id="news-tile">
 <a href="">This is a sample publication name. This is a sample publication name. This is a sample publication name. This is a sample publication name. </a><br>November 19, 2019
 
 </div>
