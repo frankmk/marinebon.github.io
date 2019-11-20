@@ -5,8 +5,8 @@ layout: single
 author_profile: false
 ---
 
-<div style="width: 45%; float: left; height: 200px; padding: 10px; display: flex; justify-content: center; flex-direction: column; background-color: #999; text-align: center; font-size: smaller;">
-<a style="color: white;" href="">This is a sample publication name. This is a sample publication name. This is a sample publication name. This is a sample publication name. </a><br>November 19, 2019
+<div style="news-tile">
+<a href="">This is a sample publication name. This is a sample publication name. This is a sample publication name. This is a sample publication name. </a><br>November 19, 2019
 
 </div>
 
