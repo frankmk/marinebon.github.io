@@ -26,7 +26,7 @@ Ryan P. Kelly, Collin J. Closek, James L. O’Donnell, James E. Kralj, Andrew O.
 
 Sassoubre, L. M., K. M. Yamahara, L. Gardner, B. Block, A. B. Boehm. 2016\. Environmental DNA (eDNA) shedding and decay rates of three marine fish. Environmental Science & Technology, 50(19), 10456-10464
 
-Sawaya, Natalie; Djurhuus, Anni; Closek, Collin; Hepner, Megan; Olesin, Emily; Visser, Lindsey; Kelble, Christopher; Hubbard, Katherine; and Breitbart, Mya, "Assessing Eukaryotic Biodiversity in the Florida Keys National Marine Sanctuary Through Environmental DNA Metabarcoding" (2019). Marine Science Faculty Publications. 651\. [https://scholarcommons.usf.edu/msc_facpub/651](https://scholarcommons.usf.edu/msc_facpub/651)
+Sawaya, Natalie; Djurhuus, Anni; Closek, Collin; Hepner, Megan; Olesin, Emily; Visser, Lindsey; Kelble, Christopher; Hubbard, Katherine; and Breitbart, Mya, "Assessing Eukaryotic Biodiversity in the Florida Keys National Marine Sanctuary Through Environmental DNA Metabarcoding" (2019). Marine Science Faculty Publications. 651\. https://scholarcommons.usf.edu/msc_facpub/651
 
 Wear, E.K., Wilbanks, E.G., Nelson, C.E. and Carlson, C.A., 2018\. Primer selection impacts specific population abundances but not community dynamics in a monthly time-series 16S rRNA gene amplicon analysis of coastal marine bacterioplankton. Environmental Microbiology. doi.org/10.1111/1462- 2920.14091
 
