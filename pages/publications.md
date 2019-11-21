@@ -6,7 +6,7 @@ author_profile: false
 ---
 **‘Omics and eDNA publications from the MBON Projects**
 
-Andruszkiewicz, E. A., H. A. Starks, F. P. Chavez, L. M. Sassoubre, B. A. Block, and A. B. Boehm. 2017\. Biomonitoring of marine vertebrates in Monterey Bay using eDNA metabarcoding. PLoS ONE 12:e0176343\. https://doi.org/10.1371/journal.pone.0176343l
+Andruszkiewicz, E. A., H. A. Starks, F. P. Chavez, L. M. Sassoubre, B. A. Block, and A. B. Boehm. 2017\. Biomonitoring of marine vertebrates in Monterey Bay using eDNA metabarcoding. PLoS ONE 12:e0176343\. [https://doi.org/10.1371/journal.pone.0176343l] (https://doi.org/10.1371/journal.pone.0176343l)
 
 Biller, S.J., L.D. McDaniel, M. Breitbart, E. Rogers, J.H. Paul, S.W. Chisholm (2017). Membrane vesicles in seawater: heterogeneous DNA content and implications for viral abundance estimates. ISME Journal. 11: 394-404
 
@@ -26,7 +26,7 @@ Ryan P. Kelly, Collin J. Closek, James L. O’Donnell, James E. Kralj, Andrew O.
 
 Sassoubre, L. M., K. M. Yamahara, L. Gardner, B. Block, A. B. Boehm. 2016\. Environmental DNA (eDNA) shedding and decay rates of three marine fish. Environmental Science & Technology, 50(19), 10456-10464
 
-Sawaya, Natalie; Djurhuus, Anni; Closek, Collin; Hepner, Megan; Olesin, Emily; Visser, Lindsey; Kelble, Christopher; Hubbard, Katherine; and Breitbart, Mya, "Assessing Eukaryotic Biodiversity in the Florida Keys National Marine Sanctuary Through Environmental DNA Metabarcoding" (2019). Marine Science Faculty Publications. 651\. https://scholarcommons.usf.edu/msc_facpub/651
+Sawaya, Natalie; Djurhuus, Anni; Closek, Collin; Hepner, Megan; Olesin, Emily; Visser, Lindsey; Kelble, Christopher; Hubbard, Katherine; and Breitbart, Mya, "Assessing Eukaryotic Biodiversity in the Florida Keys National Marine Sanctuary Through Environmental DNA Metabarcoding" (2019). Marine Science Faculty Publications. 651\. [https://scholarcommons.usf.edu/msc_facpub/651](https://scholarcommons.usf.edu/msc_facpub/651)
 
 Wear, E.K., Wilbanks, E.G., Nelson, C.E. and Carlson, C.A., 2018\. Primer selection impacts specific population abundances but not community dynamics in a monthly time-series 16S rRNA gene amplicon analysis of coastal marine bacterioplankton. Environmental Microbiology. doi.org/10.1111/1462- 2920.14091
 
