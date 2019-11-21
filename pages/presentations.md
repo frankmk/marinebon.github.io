@@ -28,7 +28,7 @@ October 11, 2019
 <p>&nbsp;</p>
 
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
-<a href="/assets/MBON_NCC_SHARE.pdf" target="_blank"><img src="/images/mbon_fmk_20191011.png"><br>
+<a href="/assets/MBON_NCC_SHARE.pdf" target="_blank"><img src="/images/mbon_ncc.png"><br>
 MBON in the Northern California Current</a><br>
 Maria Kavanaugh<br>  
 MBON New Projects Kickoff<br> 
