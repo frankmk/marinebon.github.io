@@ -7,7 +7,7 @@ author_profile: false
 <div class="news-tile">
   <div class="gray"><a href="">Global MBON Seascapes Now Available on CoastWatch</a><br>Fall 2019	
 </div>	
-
+</div>
 
 <div class="news-tile">
   <div class="gray"><a href="">Global MBON Seascapes Now Available on CoastWatch</a><br>Fall 2019	
