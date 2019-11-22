@@ -7,7 +7,7 @@ author_profile: false
 
 **2019 - Present**
 
-In October 2019, the US MBON government sponsors (US Integrated Ocean Observing System/US IOOS, National Oceanic and Atmospheric Administration/NOAA, National Aeronautics and Space Administration/NASA, Office of Naval Research/ONR and Bureau of Ocean Energy Management/BOEM) awarded six new three-year US MBON projects:
+In October 2019, the U.S. MBON government sponsors (U.S. Integrated Ocean Observing System/US IOOS, National Oceanic and Atmospheric Administration/NOAA, National Aeronautics and Space Administration/NASA, Office of Naval Research/ONR and Bureau of Ocean Energy Management/BOEM) awarded six new three-year U.S. MBON projects:
 
 *   Francisco Chavez, Monterey Bay Aquarium Research Institute: [The CeNCOOS MBON: Integrating remote sensing, _in situ_ data and models to understand central California ecosystem responses to environmental change](/pages/ccmbon/)
 *   Katrin Iken, University of Alaska - Fairbanks: [A sustainable, integrated AMBON in the Chukchi Sea](/pages/ambon/)
@@ -18,7 +18,7 @@ In October 2019, the US MBON government sponsors (US Integrated Ocean Observing 
 
 **2013 - 2018**
 
-The new projects build on the lessons learned and the progress made during the initial set of US MBON demonstrations (2013-2018):
+The new projects build on the lessons learned and the progress made during the initial set of U.S. MBON demonstrations (2013-2018):
 
 *   [Arctic MBON](http://ambon-us.org/)
 *   [Sanctuaries MBON](http://sanctuaries.marinebon.org/)
@@ -26,4 +26,4 @@ The new projects build on the lessons learned and the progress made during the i
 
 The new MBON projects will expand coverage beyond the initial demonstrations to cover the Arctic, Northern California Current, Central California, Southern California Bight, South Florida, and Gulf of Maine. They are a key step in evolving an integrated and operational marine biological observing capability for the US oceans, coasts and the Great Lakes, integrating biological observations across taxonomic, spatial and temporal scales and advancing technologies for automated collection of biological observations.   
 
-US MBON projects also complement the experimental biodiversity efforts carried out by the Smithsonian-led [MarineGEO](https://marinegeo.si.edu).
+U.S. MBON projects also complement the experimental biodiversity efforts carried out by the Smithsonian-led [MarineGEO](https://marinegeo.si.edu).
