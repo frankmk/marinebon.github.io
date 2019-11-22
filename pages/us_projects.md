@@ -16,6 +16,8 @@ In October 2019, the US MBON government sponsors (US Integrated Ocean Observing 
 *   Ru Morrison, Northeastern Regional Association of Coastal Ocean Observing Systems (NERACOOS): [MBON expansion into the Gulf of Maine: the NERACOOS/NROC Integrated Sentinel Monitoring Network (ISMN)](/pages/gommbon/)
 *   Frank Muller-Karger, University of South Florida: [Implementing a Marine Biodiversity Observation Network (MBON) in South Florida to Advance Ecosystem-Based Management](/pages/sfmbon/)
 
+**2013 - 2018**
+
 The new projects build on the lessons learned and the progress made during the initial set of US MBON demonstrations (2013-2018):
 
 *   [Arctic MBON](http://ambon-us.org/)
