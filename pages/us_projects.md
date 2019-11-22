@@ -24,4 +24,4 @@ The new projects build on the lessons learned and the progress made during the i
 
 The new MBON projects will expand coverage beyond the initial demonstrations to cover the Arctic, Northern California Current, Central California, Southern California Bight, South Florida, and Gulf of Maine. They are a key step in evolving an integrated and operational marine biological observing capability for the US oceans, coasts and the Great Lakes, integrating biological observations across taxonomic, spatial and temporal scales and advancing technologies for automated collection of biological observations.   
 
-US MBON projects also complement the experimental biodiversity efforts carried out by the Smithsonian-led [MarineGEO]. (https://marinegeo.si.edu)
+US MBON projects also complement the experimental biodiversity efforts carried out by the Smithsonian-led [MarineGEO.] (https://marinegeo.si.edu)
