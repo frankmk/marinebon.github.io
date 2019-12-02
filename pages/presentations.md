@@ -7,7 +7,7 @@ author_profile: false
 
 <div style="width: 100%; float:left; background-color: #efefef; font-weight: bold; padding: 10px;">MBON New Projects Kickoff - 
 October 11, 2019<</div>
-<p>&nbsp;</p>
+
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
 <a href="https://usf.box.com/s/1lgwavlh1yq1gx19r1188l0v9fun317h" target="_blank"><img src="/images/mbon_fmk_20191011.png"><br>
 South Florida MBON</a><br>
