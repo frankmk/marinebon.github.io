@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-<div style="float:left; background-color: #efefef; padding: 10px;"><br>MBON New Projects Kickoff - 
+<div style="width: 100%; float:left; background-color: #efefef; font-weight: bold; padding: 10px;">MBON New Projects Kickoff - 
 October 11, 2019</b></div>
 <p>&nbsp;</p>
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
