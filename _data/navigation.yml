@@ -20,42 +20,42 @@ main:
 
 # site_nav links
 site_nav:
-    - title: "MBON RESOURCES"
-      children:
-      url: /pages/resources/
+  - title: "MBON RESOURCES"
+  children:
+    url: /pages/resources/
       
-      - title: "News"
-      url: /pages/news/
+    - title: "News"
+    url: /pages/news/
     
-      - title: "Publications"
-      url: /pages/publications/
+    - title: "Publications"
+    url: /pages/publications/
     
-      - title: "Presentations"
-      url: /pages/presentations/
-
+    - title: "Presentations"
+    url: /pages/presentations/
+  
   - title: "U.S. MBON PROJECTS"
-    children:
-      - title: "Central California MBON"
-        url: /pages/ccmbon/
+  children:
+    - title: "Central California MBON"
+    url: /pages/ccmbon/
 
-      - title: "Arctic MBON"
-        url: /pages/ambon/
+    - title: "Arctic MBON"
+    url: /pages/ambon/
 
-      - title: "Northern California Current MBON"
-        url: /pages/nccmbon/
+    - title: "Northern California Current MBON"
+    url: /pages/nccmbon/
         
-      - title: "Southern California Bight MBON"
-        url: /pages/scbmbon/
+    - title: "Southern California Bight MBON"
+    url: /pages/scbmbon/
+  
+    - title: "Gulf of Maine MBON"
+    url: /pages/gommbon/
 
-      - title: "Gulf of Maine MBON"
-        url: /pages/gommbon/
-
-      - title: "South Florida MBON"
-        url: /pages/sfmbon/
+    - title: "South Florida MBON"
+    url: /pages/sfmbon/
         
   - title: "MBON GLOBAL COLLABORATORS"
-    children:
-      - title: "GEO BON"
+  children:
+    - title: "GEO BON"
         url: "https://geobon.org/"
         image: geobon_logo.png
 
