@@ -18,14 +18,21 @@ main:
 
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
-    
-    children:
-      - title: "GEO BON"
-        url: "https://geobon.org/"
 
 # site_nav links
 site_nav:
-  - title: MBON GLOBAL COLLABORATORS
+  - title: "MBON RESOURCES"
+    children:
+      - title: "News"
+        url: "/pages/news/"
+
+      - title: "Publications"
+        url: "/pages/publications/"
+        
+      - title: "Presentations"
+        url: "/pages/presentations/"
+    
+  - title: "MBON GLOBAL COLLABORATORS"
     children:
       - title: "GEO BON"
         url: "https://geobon.org/"
