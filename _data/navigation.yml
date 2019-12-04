@@ -1,3 +1,4 @@
+
 # main links links
 main:
   - title: "About MBON"
@@ -18,24 +19,22 @@ main:
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
     
+    children:
+      - title: "GEO BON"
+        url: "https://geobon.org/"
+
 # site_nav links
 site_nav:
-  - title: "U.S. MBON PROJECTS"
-  children:
-    - title: "Central California MBON"
-    url: /pages/ccmbon/
+  - title: MBON GLOBAL COLLABORATORS
+    children:
+      - title: "GEO BON"
+        url: "https://geobon.org/"
+        image: geobon_logo.png
 
-    - title: "Arctic MBON"
-    url: /pages/ambon/
+      - title: "OBIS"
+        url: "https://obis.org/"
+        image: obis_logo.png
 
-    - title: "Northern California Current MBON"
-    url: /pages/nccmbon/
-        
-    - title: "Southern California Bight MBON"
-    url: /pages/scbmbon/
-  
-    - title: "Gulf of Maine MBON"
-    url: /pages/gommbon/
-
-    - title: "South Florida MBON"
-    url: /pages/sfmbon/
+      - title: "IOOS"
+        url: "https://ioos.noaa.gov/"
+        image: ioos_logo.jpg
