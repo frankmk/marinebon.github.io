@@ -3,8 +3,8 @@ main:
   - title: "About MBON"
     url: /index.html
 
-  - title: "News"
-    url: /pages/news/
+  - title: "Resources"
+    url: /pages/resources/
     
   - title: "U.S. Projects"
     url: /pages/us_projects/
