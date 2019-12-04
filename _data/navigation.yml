@@ -19,19 +19,6 @@ main:
     url: /pages/pole_to_pole/
 
 # site_nav links
-site_nav:
-  - title: "MBON RESOURCES"
-  children:
-    url: /pages/resources/
-      
-    - title: "News"
-    url: /pages/news/
-    
-    - title: "Publications"
-    url: /pages/publications/
-    
-    - title: "Presentations"
-    url: /pages/presentations/
   
   - title: "U.S. MBON PROJECTS"
   children:
