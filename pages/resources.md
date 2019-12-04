@@ -9,10 +9,10 @@ MBON partners are committed to providing timely information on marine biodiversi
 
 <div style="width:30%; text-align:center; background-color: #102f84; font-weight: 900; color: #ffffff; padding: 5px;"><a href="news.md">News</a></div>
 
-<div style="clearfix;"></div>
+<div style="clear:both;"></div>
 
 <div style="width:30%; text-align:center; background-color: #102f84; font-weight: 900; color: #ffffff; padding: 5px;"><a href="publications.md">Publications</a></div>
 
-<div style="clearfix;"></div>
+<div style="clear:both;"></div>
 
 <div style="width:30%; text-align:center; background-color: #102f84; font-weight: 900; color: #ffffff; padding: 5px;"><a href="presentations.md">Presentations</a></div>
