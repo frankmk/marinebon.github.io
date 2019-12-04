@@ -95,22 +95,6 @@ Bill Woodward
 <p>&nbsp;</p>
 
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
-<a href="/assets/MBON_NCC_SHARE.pdf" target="_blank"><img src="/images/mbon_ncc.png"><br>
-Addressing Environmental and Cumulative Impacts at the National Scale</a><br>
-Jill Lewandowski
-</div>
-
-<div style="width:45%; float:right; text-align:center; font-size: smaller;">
-<a href="/assets/AMBON2lightningtalk.pdf" target="_blank"><img src="/images/sustainableambon.png"><br>
-Monitoring Biodiversity in a Time of Global Change</a><br>
-Libby Jewett
-</div>
-
-<div style="clear: both;"></div>
-
-<p>&nbsp;</p>
-
-<div style="width:45%; float:left; text-align:center; font-size: smaller;">
 <a href="/assets/MBON_NCC_SHARE.pdf" target="_blank"><img src="/images/standards_gc_mbonallhands.png"><br>
 Advancing Standards for Biological Data in the US and Globally</a><br>
 Gabrielle Canonico
