@@ -18,6 +18,20 @@ main:
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
 
+# resources links
+main:
+  - title: "MBON RESOURCES"
+    url: /pages/resources/
+
+  - title: "News"
+    url: /pages/news/
+    
+  - title: "Publications"
+    url: /pages/publications/
+    
+  - title: "Presentations"
+    url: /pages/presentations/
+
 # site_nav links
 site_nav:
   - title: "U.S. MBON PROJECTS"
