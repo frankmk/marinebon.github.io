@@ -18,22 +18,24 @@ main:
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
     
-# sidenav links
+# site_nav links
 site_nav:
-  - title: "About MBON"
-    url: /index.html
+  - title: "U.S. MBON PROJECTS"
+  children:
+    - title: "Central California MBON"
+    url: /pages/ccmbon/
 
-  - title: "News"
-    url: /pages/news/
-    
-  - title: "U.S. Projects"
-    url: /pages/us_projects/
-    
-  - title: "Data"
-    url: /pages/data/
+    - title: "Arctic MBON"
+    url: /pages/ambon/
 
-  - title: "Global Efforts"
-    url: /pages/global_efforts/
+    - title: "Northern California Current MBON"
+    url: /pages/nccmbon/
+        
+    - title: "Southern California Bight MBON"
+    url: /pages/scbmbon/
+  
+    - title: "Gulf of Maine MBON"
+    url: /pages/gommbon/
 
-  - title: "MBON Pole to Pole"
-    url: /pages/pole_to_pole/
+    - title: "South Florida MBON"
+    url: /pages/sfmbon/
