@@ -17,3 +17,23 @@ main:
 
   - title: "MBON Pole to Pole"
     url: /pages/pole_to_pole/
+    
+# sidenav links
+side_nav:
+  - title: "About MBON"
+    url: /index.html
+
+  - title: "News"
+    url: /pages/news/
+    
+  - title: "U.S. Projects"
+    url: /pages/us_projects/
+    
+  - title: "Data"
+    url: /pages/data/
+
+  - title: "Global Efforts"
+    url: /pages/global_efforts/
+
+  - title: "MBON Pole to Pole"
+    url: /pages/pole_to_pole/
