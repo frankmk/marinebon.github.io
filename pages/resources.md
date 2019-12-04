@@ -9,13 +9,13 @@ MBON partners are committed to providing timely information on marine biodiversi
 
 <div class="clearfix">
   <div class="resourcebox" style="background-color: #102f84;">
-  <a href="/pages/news.md">News</a>
+  <a style="color: #ffffff;" href="/pages/news.md">News</a>
   </div>
   <div class="resourcebox" style="background-color: #102f84;">
   <a style="color: #ffffff;" href="/pages/publications.md">Publications</a>
   </div>
   <div class="resourcebox" style="background-color: #102f84;">
-  <a href="/pages/publications.md">Presentations</a>
+  <a style="color: #ffffff;" href="/pages/publications.md">Presentations</a>
   </div>
 </div>
 
