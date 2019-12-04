@@ -19,7 +19,7 @@ main:
     url: /pages/pole_to_pole/
     
 # sidenav links
-side_nav:
+site_nav:
   - title: "About MBON"
     url: /index.html
 
