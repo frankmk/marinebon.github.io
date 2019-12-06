@@ -41,7 +41,7 @@ Katrin Iken
 <div style="clear: both;"></div>
 <p>&nbsp;</p>
 
-<div style="width: 100%; float:left; background-color: #102f84; font-weight: 900; color: #ffffff; padding: 5px;">MBON All Hands Meeting - May 24, 2019</div>
+<div style="width: 100%; float:left; background-color: #efefef; font-weight: 900; color: #102f84; padding: 5px;">MBON All Hands Meeting - May 24, 2019</div>
 <br>
 
 <div style="width:45%; float:left; text-align:center; font-size: smaller;">
