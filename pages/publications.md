@@ -6,9 +6,11 @@ author_profile: false
 ---
 **‘Omics and eDNA publications from the MBON Projects**
 
-Andruszkiewicz, E. A., H. A. Starks, F. P. Chavez, L. M. Sassoubre, B. A. Block, and A. B. Boehm. 2017\. Biomonitoring of marine vertebrates in Monterey Bay using eDNA metabarcoding. PLoS ONE 12:e0176343\. [https://doi.org/10.1371/journal.pone.0176343l](https://doi.org/10.1371/journal.pone.0176343l)
+Andruszkiewicz, E. A., H. A. Starks, F. P. Chavez, L. M. Sassoubre, B. A. Block, and A. B. Boehm. 2017\. Biomonitoring of marine vertebrates in Monterey Bay using eDNA metabarcoding. PLoS ONE 12:e0176343\. [https://doi.org/10.1371/journal.pone.0176343l (https://doi.org/10.1371/journal.pone.0176343l)
 
 Biller, S.J., L.D. McDaniel, M. Breitbart, E. Rogers, J.H. Paul, S.W. Chisholm (2017). Membrane vesicles in seawater: heterogeneous DNA content and implications for viral abundance estimates. ISME Journal. 11: 394-404
+
+Djurhuus, A. C. Closek, R. Kelly, K. Pitz, R. Michisaki, H. Starks, K. Walz, E. Andruszkiewicz, E. Olesin, K. Hubbard, E. Montes, D. Otis, F. Muller-Karger, F. Chavez, A. Boehm, and M. Breitbart (in press) Environmental DNA reveals seasonal shifts and potential interactions in a marine community. Nature Communications
 
 Djurhuus, Anni, Kathleen Pitz, Natalie A. Sawaya, Jaimie Rojas-Márquez, Brianna Michaud, Enrique Montes, Frank Muller-Karger, and Mya Breitbart. 2018\. Evaluation of marine zooplankton community structure through environmental DNA metabarcoding. Limnology and Oceanography: Methods. 10.1002/lom3.10237 9\.
 
@@ -31,3 +33,7 @@ Sawaya, Natalie; Djurhuus, Anni; Closek, Collin; Hepner, Megan; Olesin, Emily; V
 Wear, E.K., Wilbanks, E.G., Nelson, C.E. and Carlson, C.A., 2018\. Primer selection impacts specific population abundances but not community dynamics in a monthly time-series 16S rRNA gene amplicon analysis of coastal marine bacterioplankton. Environmental Microbiology. doi.org/10.1111/1462- 2920.14091
 
 Yamahara, Kevan M., Christina M. Preston, James Birch, Kristine Walz, Roman Marin III, Scott Jensen, Douglas Pargett, Brent Roman, William Ussler III, Yanwu Zhang, John Ryan, Brett Hobson, Brian Kieft, Ben Raanan, Kelly D. Goodwin, Francisco P. Chavez, and Christopher Scholin. 2019\. In-situ Autonomous Acquisition and Preservation of Marine Environmental DNA Using an Autonomous Underwater Vehicle. Front. Mar. Sci.. doi: 10.3389/fmars.2019.00373
+
+**Relevant publications from Ocean Obs '19**
+
+Benson A, Brooks CM, Canonico G, Duffy E, Muller-Karger F, Sosik HM, Miloslavich P and Klein E (2018) Integrated Observations and Informatics Improve Understanding of Changing Marine Ecosystems. Front. Mar. Sci. 5:428\. [https://doi.org/10.3389/fmars.2018.00428] (https://doi.org/10.3389/fmars.2018.00428)
