@@ -15,9 +15,6 @@ main:
   - title: "Global Efforts"
     url: /pages/global_efforts/
 
-  - title: "MBON Pole to Pole"
-    url: /pages/pole_to_pole/
-
 # site_nav links
 site_nav:
   - title: "U.S. MBON PROJECTS"
@@ -40,6 +37,11 @@ site_nav:
       - title: "South Florida MBON"
         url: /pages/sfmbon/
         
+  - title: "MBON GLOBAL EFFORTS"
+    children:
+      - title: "MBON Pole to Pole"
+        url: "/pages/pole_to_pole/"
+                
   - title: "MBON RESOURCES"
     children:
       - title: "News"
