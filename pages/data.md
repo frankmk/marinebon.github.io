@@ -16,7 +16,7 @@ U.S. MBON projects and U.S. IOOS Regional Association biological data that suppo
 
 <div align="center"><a href="https://mbon.ioos.us/" target="_blank"><img src="../../images/mbon_data.jpg"></a></div>
 
-**MBON Curated Data Views**
+**MBON Curated Data Views**<br>
 Within the MBON Portal, users can select and save a collection of data layers and visualize them together for comparison and analysis. These collections are called data views, and they can be accessed by clicking on the “star” icon near the top right corner of the toolbar.
 
 There are several premade data views on the MBON Portal main page that highlight issues of concern to MBON partners and provide an example of how data views can be used to answer a science or management question.
