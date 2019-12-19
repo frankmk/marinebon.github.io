@@ -34,7 +34,7 @@ Wear, E.K., Wilbanks, E.G., Nelson, C.E. and Carlson, C.A., 2018\. Primer select
 
 Yamahara, Kevan M., Christina M. Preston, James Birch, Kristine Walz, Roman Marin III, Scott Jensen, Douglas Pargett, Brent Roman, William Ussler III, Yanwu Zhang, John Ryan, Brett Hobson, Brian Kieft, Ben Raanan, Kelly D. Goodwin, Francisco P. Chavez, and Christopher Scholin. 2019\. In-situ Autonomous Acquisition and Preservation of Marine Environmental DNA Using an Autonomous Underwater Vehicle. Front. Mar. Sci.. doi: 10.3389/fmars.2019.00373
 
-**Relevant publications from Ocean Obs '19**
+**Relevant publications from [Ocean Obs '19](http://www.oceanobs19.net)**
 
 Benson A, Brooks CM, Canonico G, Duffy E, Muller-Karger F, Sosik HM, Miloslavich P and Klein E (2018) Integrated Observations and Informatics Improve Understanding of Changing Marine Ecosystems. Front. Mar. Sci. 5:428\. [https://doi.org/10.3389/fmars.2018.00428](https://doi.org/10.3389/fmars.2018.00428)
 
