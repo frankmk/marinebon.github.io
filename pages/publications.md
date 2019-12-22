@@ -10,6 +10,8 @@ Andruszkiewicz, E. A., H. A. Starks, F. P. Chavez, L. M. Sassoubre, B. A. Block,
 
 Biller, S.J., L.D. McDaniel, M. Breitbart, E. Rogers, J.H. Paul, S.W. Chisholm (2017). Membrane vesicles in seawater: heterogeneous DNA content and implications for viral abundance estimates. ISME Journal. 11: 394-404
 
+Closek Collin J., Jarrod A. Santora, Hilary A. Starks, Isaac D. Schroeder, Elizabeth A. Andruszkiewicz, Keith M. Sakuma, Steven J. Bograd, Elliott L. Hazen, John C. Field, and Alexandria B. Boehm. 2019. Marine Vertebrate Biodiversity and Distribution Within the Central California Current Using Environmental DNA (eDNA) Metabarcoding and Ecosystem Surveys. Front. Mar. Sci., https://doi.org/10.3389/fmars.2019.00732
+
 Djurhuus, A. C. Closek, R. Kelly, K. Pitz, R. Michisaki, H. Starks, K. Walz, E. Andruszkiewicz, E. Olesin, K. Hubbard, E. Montes, D. Otis, F. Muller-Karger, F. Chavez, A. Boehm, and M. Breitbart (in press) Environmental DNA reveals seasonal shifts and potential interactions in a marine community. Nature Communications
 
 Djurhuus, Anni, Kathleen Pitz, Natalie A. Sawaya, Jaimie Rojas-Márquez, Brianna Michaud, Enrique Montes, Frank Muller-Karger, and Mya Breitbart. 2018\. Evaluation of marine zooplankton community structure through environmental DNA metabarcoding. Limnology and Oceanography: Methods. 10.1002/lom3.10237 9\.
